@@ -22,6 +22,30 @@
         font-size: 1rem;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 3.5rem;
+        margin-bottom: 50px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.3rem;
+    }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
     .navbar {
@@ -46,6 +70,30 @@
         font-style: normal;
         font-size: 1rem;
         margin-bottom: 0px;
+    }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.25rem;
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -72,6 +120,30 @@
         font-size: 1rem;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 3rem;
+        margin-bottom: 35px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.25rem;
+    }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
     .navbar {
@@ -96,6 +168,30 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2.5rem;
+        margin-bottom: 30px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -122,6 +218,30 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2.3rem;
+        margin-bottom: 25px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+    }
 }
 @media (min-width: 768px) and (max-width: 990px){
     .navbar {
@@ -146,6 +266,30 @@
         font-style: normal;
         font-size: 0.8rem;
         margin-bottom: 0px;
+    }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2rem;
+        margin-bottom: 25px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 100px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -172,6 +316,30 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2.5rem;
+        margin-bottom: 25px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 10px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+    }
 }
 @media (min-width: 500px) and (max-width: 599px){
     .navbar {
@@ -196,6 +364,30 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 15px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -222,6 +414,30 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2.3rem;
+        margin-bottom: 20px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 15px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.15rem;
+    }
 }
 @media (min-width: 300px) and (max-width: 399px){
     .navbar {
@@ -247,6 +463,30 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 10px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.1rem;
+    }
 }
 @media (max-width: 299px){
     .navbar {
@@ -271,5 +511,29 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .nadpis {
+        text-align: center;
+        padding-top: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 2rem;
+        margin-bottom: 15px;
+    }
+    .text-container {
+        text-align: start;
+        margin: 0 5px;
+    }
+    .text-container p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text-container h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.1rem;
     }
 }
