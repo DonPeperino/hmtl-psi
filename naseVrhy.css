@@ -74,11 +74,11 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        font-size: 1.2rem;
+        font-size: 1.3rem;
         margin-bottom: 0px;
     }
     .hlava {
@@ -88,7 +88,7 @@
         font-size: 1.5rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -100,8 +100,12 @@
         padding-bottom: 2px;
     }
     p #sun {
+        width: 30px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
         width: 35px;
-        padding-bottom: 5px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
@@ -160,11 +164,11 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         margin-bottom: 0px;
     }
     .hlava {
@@ -174,7 +178,7 @@
         font-size: 1.4rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -186,8 +190,12 @@
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
+        width: 28px;
         padding-bottom: 5px;
+    }
+    p #gender2 {
+        width: 35px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -246,11 +254,11 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        font-size: 1.05rem;
+        font-size: 1.1rem;
         margin-bottom: 0px;
     }
     .hlava {
@@ -260,7 +268,7 @@
         font-size: 1.3rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -272,8 +280,12 @@
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 28px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 32px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
@@ -332,7 +344,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -346,7 +358,7 @@
         font-size: 1.25rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -354,12 +366,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 34px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 26px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 30px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -427,7 +443,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -441,7 +457,7 @@
         font-size: 1.2rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -449,12 +465,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 32px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 23px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 28px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 768px) and (max-width: 990px){
@@ -522,7 +542,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -536,7 +556,7 @@
         font-size: 1.15rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -544,12 +564,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 30px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 22px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 25px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -609,7 +633,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -623,7 +647,7 @@
         font-size: 1.3rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -635,8 +659,12 @@
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 23px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 34px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 500px) and (max-width: 599px){
@@ -696,7 +724,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -710,7 +738,7 @@
         font-size: 1.25rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -718,12 +746,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 34px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 22px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 32px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -783,7 +815,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -797,7 +829,7 @@
         font-size: 1.15rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -805,12 +837,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 32px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 21px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 30px;
+        padding-bottom: 2px;
     }
 }
 @media (min-width: 300px) and (max-width: 399px){
@@ -870,7 +906,7 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
@@ -884,7 +920,7 @@
         font-size: 1.05rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -892,12 +928,16 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 28px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 20px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 27px;
+        padding-bottom: 2px;
     }
 }
 @media (max-width: 299px){
@@ -957,11 +997,11 @@
     .container p{
         text-align: center;
     }
-    .realName {
+    .name {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        font-size: 0.7rem;
+        font-size: 0.75rem;
         margin-bottom: 0px;
     }
     .hlava {
@@ -971,7 +1011,7 @@
         font-size: 0.9rem;
         margin-bottom: 0px;
     }
-    .name {
+    .realName {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
         font-style: normal;
@@ -979,11 +1019,15 @@
         margin-bottom: 0px;
     }
     p #gender {
-        width: 35px;
+        width: 25px;
         padding-bottom: 2px;
     }
     p #sun {
-        width: 35px;
-        padding-bottom: 5px;
+        width: 18px;
+        padding-bottom: 3px;
+    }
+    p #gender2 {
+        width: 25px;
+        padding-bottom: 2px;
     }
 }

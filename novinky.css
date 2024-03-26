@@ -22,6 +22,13 @@
         font-size: 1rem;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
     .navbar {
@@ -46,6 +53,13 @@
         font-style: normal;
         font-size: 1rem;
         margin-bottom: 0px;
+    }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -72,6 +86,13 @@
         font-size: 1rem;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
     .navbar {
@@ -96,6 +117,13 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -122,6 +150,13 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (min-width: 768px) and (max-width: 990px){
     .navbar {
@@ -146,6 +181,13 @@
         font-style: normal;
         font-size: 0.8rem;
         margin-bottom: 0px;
+    }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -172,6 +214,13 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (min-width: 500px) and (max-width: 599px){
     .navbar {
@@ -196,6 +245,13 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -222,6 +278,13 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (min-width: 300px) and (max-width: 399px){
     .navbar {
@@ -247,6 +310,13 @@
         font-style: normal;
         margin-bottom: 0px;
     }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
 }
 @media (max-width: 299px){
     .navbar {
@@ -271,5 +341,12 @@
         font-weight: 300;
         font-style: normal;
         margin-bottom: 0px;
+    }
+    .novinky img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        margin-top: 50px;
     }
 }
