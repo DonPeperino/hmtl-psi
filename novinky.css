@@ -26,8 +26,18 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
-        margin-top: 50px;
+        width: 75%;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
@@ -58,8 +68,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 60%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -90,8 +111,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 60%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
@@ -122,8 +154,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 60%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -154,8 +197,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 60%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 768px) and (max-width: 990px){
@@ -186,8 +240,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 70%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -221,6 +286,17 @@
         width: 100%;
         margin-top: 50px;
     }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
+    }
 }
 @media (min-width: 500px) and (max-width: 599px){
     .navbar {
@@ -250,8 +326,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 90%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.5rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -282,8 +369,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 90%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.3rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (min-width: 300px) and (max-width: 399px){
@@ -314,8 +412,19 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 90%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1.1rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }
 @media (max-width: 299px){
@@ -346,7 +455,18 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 100%;
+        width: 90%;
         margin-top: 50px;
+    }
+    .novinky p{
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 1rem;
+        margin-bottom: 0px;
+    }
+    .novinky {
+        margin-top: 80px;
     }
 }

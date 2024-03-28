@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MaWiThea</title>
     <link rel="icon" href="./photos/Design 77.png"  type="image/icon">
-    <link rel="stylesheet" href="./oNas.css">
+    <link rel="stylesheet" href="galeriePsi.css">
+    <link rel="stylesheet" href="./lightbox.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,9 +52,19 @@
     </div>
   </nav>
   <div class="container">
-    <div class="oNas">
-      <img src="./photos/onasxx.png" alt="">
+    <div class="gallery">
+        <a href="galleryPhotos/lilunka.jpg" data-lightbox="photos" data-title="Lilu">
+            <img src="galleryPhotos/lilunka.jpg">
+          </a>
+          <a href="galleryPhotos/LILUM01.jpg" data-lightbox="photos" data-title="Lilu">
+            <img src="galleryPhotos/LILUM01.jpg">
+          </a>
     </div>
-  </div>
+</div>
+<script src="lightbox-plus-jquery.js"></script>
+<script>
+  lightbox.option({
+    'alwaysShowNavOnTouchDevices': true})
+</script>
 </body>
 </html>
