@@ -1,3 +1,11 @@
+    .name p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
 @media(min-width: 1801px) {
     .navbar {
         opacity: 75%;
@@ -29,10 +37,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 3.5rem;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 100px;
     }
     .text-container p{
@@ -45,6 +53,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.3rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 50px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.3rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px 300px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 300px
     }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
@@ -78,10 +127,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 3rem;
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 100px;
     }
     .text-container p{
@@ -94,6 +143,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.25rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 40px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.25rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px 300px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 300px
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -127,10 +217,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 3rem;
-        margin-bottom: 35px;
+        margin-bottom: 15px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 100px;
     }
     .text-container p{
@@ -143,6 +233,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.25rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 35px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.25rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px 300px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 300px
     }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
@@ -176,10 +307,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2.5rem;
-        margin-bottom: 30px;
+        margin-bottom: 15px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 100px;
     }
     .text-container p{
@@ -192,6 +323,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.2rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 30px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px 300px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 300px
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -225,10 +397,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2.3rem;
-        margin-bottom: 25px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 100px;
     }
     .text-container p{
@@ -241,6 +413,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.2rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 25px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 250px 250px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 250px
     }
 }
 @media (min-width: 768px) and (max-width: 990px){
@@ -274,11 +487,11 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2rem;
-        margin-bottom: 25px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
-        margin: 0 100px;
+        text-align: justify;
+        margin: 0 50px;
     }
     .text-container p{
         font-family: "Poppins", sans-serif;
@@ -290,6 +503,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.2rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 25px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 250px 250px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 250px
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -323,10 +577,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2.5rem;
-        margin-bottom: 25px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 10px;
     }
     .text-container p{
@@ -339,6 +593,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.2rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 25px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 220px 220px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 220px
     }
 }
 @media (min-width: 500px) and (max-width: 599px){
@@ -372,10 +667,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2.5rem;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 15px;
     }
     .text-container p{
@@ -388,6 +683,49 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.2rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 20px;
+        margin-left: 25px;
+        margin-right: 25x;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 200px 200px;
+        column-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 200px
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -421,10 +759,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2.3rem;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 15px;
     }
     .text-container p{
@@ -437,6 +775,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.15rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 20px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.15rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 250px;
+        row-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 250px
     }
 }
 @media (min-width: 300px) and (max-width: 399px){
@@ -470,10 +849,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2rem;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 10px;
     }
     .text-container p{
@@ -486,6 +865,47 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.1rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 20px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.1rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 220px;
+        row-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 220px
     }
 }
 @media (max-width: 299px){
@@ -519,10 +939,10 @@
         font-weight: 500;
         font-style: normal;
         font-size: 2rem;
-        margin-bottom: 15px;
+        margin-bottom: 5px;
     }
     .text-container {
-        text-align: start;
+        text-align: justify;
         margin: 0 5px;
     }
     .text-container p{
@@ -535,5 +955,46 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1.1rem;
+    }
+    .zdroj p{
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+    .basic-info {
+        justify-content: center;
+        display: grid;
+        margin-bottom: 15px;
+    }
+    .basic-nadpis h2{
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.1rem;
+        text-align: center;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .box p {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .box {
+        display: flex;
+        justify-content: center;
+    }
+    .photo {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 200px;
+        row-gap: 10px;
+        align-items: center;
+        margin-bottom: 5px;
+    }
+    .photo img {
+        width: 200px
     }
 }
