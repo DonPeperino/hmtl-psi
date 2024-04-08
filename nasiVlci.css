@@ -110,6 +110,7 @@
         font-style: normal;
         font-size: 1.1rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
@@ -191,6 +192,7 @@
         font-style: normal;
         font-size: 1rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
@@ -272,6 +274,7 @@
         font-style: normal;
         font-size: 0.95rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
@@ -353,6 +356,7 @@
         font-style: normal;
         font-size: 0.85rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 991px) and (max-width: 1200px){
@@ -434,6 +438,7 @@
         font-style: normal;
         font-size: 0.8rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 768px) and (max-width: 990px){
@@ -515,6 +520,7 @@
         font-style: normal;
         font-size: 0.7rem;
         margin-bottom: 0px;
+        text-align: justify;
     }
 }
 @media (min-width: 600px) and (max-width: 767px){
@@ -599,6 +605,7 @@
         font-weight: 300;
         font-style: normal;
         font-size: 1rem;
+        text-align: justify;
     }
 }
 @media (min-width: 500px) and (max-width: 599px){
@@ -683,6 +690,7 @@
         font-weight: 300;
         font-style: normal;
         font-size: 0.9rem;
+        text-align: justify;
     }
 }
 @media (min-width: 400px) and (max-width: 499px){
@@ -767,6 +775,7 @@
         font-weight: 300;
         font-style: normal;
         font-size: 0.85rem;
+        text-align: justify;
     }
 }
 @media (min-width: 300px) and (max-width: 399px){
@@ -851,6 +860,7 @@
         font-weight: 300;
         font-style: normal;
         font-size: 0.8rem;
+        text-align: justify;
     }
 }
 @media (max-width: 299px){
@@ -935,5 +945,6 @@
         font-weight: 300;
         font-style: normal;
         font-size: 0.7rem;
+        text-align: justify;
     }
 }
