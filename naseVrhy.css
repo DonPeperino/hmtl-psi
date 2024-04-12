@@ -18,6 +18,13 @@
     position: absolute;
     left: 10%;
 }
+.exibitions {
+    text-align: center;
+    margin-bottom: 1em;
+}
+.exibitions p {
+    margin-bottom: 0px;
+}
 @media(min-width: 1801px) {
     .navbar {
         opacity: 75%;

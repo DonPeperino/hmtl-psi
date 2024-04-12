@@ -93,7 +93,16 @@
         margin-bottom: 5px;
     }
     .photo img {
-        width: 300px
+        width: 300px;
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 400px;
+        margin: 10px;
+    }
+    .image img {
+        width: 400px;
     }
 }
 @media (min-width: 1601px) and (max-width: 1800px){
@@ -185,6 +194,15 @@
     .photo img {
         width: 300px
     }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 400px;
+        margin: 10px;
+    }
+    .image img {
+        width: 400px;
+    }
 }
 @media (min-width: 1401px) and (max-width: 1600px){
     .navbar {
@@ -274,6 +292,15 @@
     }
     .photo img {
         width: 300px
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 350px;
+        margin: 10px;
+    }
+    .image img {
+        width: 350px;
     }
 }
 @media (min-width: 1201px) and (max-width: 1400px){
@@ -365,6 +392,15 @@
     .photo img {
         width: 300px
     }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 350px;
+        margin: 10px;
+    }
+    .image img {
+        width: 350px;
+    }
 }
 @media (min-width: 991px) and (max-width: 1200px){
     .navbar {
@@ -454,6 +490,15 @@
     }
     .photo img {
         width: 250px
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 320px;
+        margin: 10px;
+    }
+    .image img {
+        width: 320px;
     }
 }
 @media (min-width: 768px) and (max-width: 990px){
@@ -545,6 +590,15 @@
     .photo img {
         width: 250px
     }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px;
+        margin: 10px;
+    }
+    .image img {
+        width: 300px;
+    }
 }
 @media (min-width: 600px) and (max-width: 767px){
     .navbar {
@@ -634,6 +688,15 @@
     }
     .photo img {
         width: 220px
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 300px;
+        margin: 10px;
+    }
+    .image img {
+        width: 300px;
     }
 }
 @media (min-width: 500px) and (max-width: 599px){
@@ -727,6 +790,15 @@
     .photo img {
         width: 200px
     }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 280px;
+        margin: 10px;
+    }
+    .image img {
+        width: 280px;
+    }
 }
 @media (min-width: 400px) and (max-width: 499px){
     .navbar {
@@ -816,6 +888,15 @@
     }
     .photo img {
         width: 250px
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 250px;
+        margin: 10px;
+    }
+    .image img {
+        width: 250px;
     }
 }
 @media (min-width: 300px) and (max-width: 399px){
@@ -907,6 +988,15 @@
     .photo img {
         width: 220px
     }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 200px;
+        margin: 10px;
+    }
+    .image img {
+        width: 200px;
+    }
 }
 @media (max-width: 299px){
     .navbar {
@@ -996,5 +1086,14 @@
     }
     .photo img {
         width: 200px
+    }
+    .image {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 170px;
+        margin: 10px;
+    }
+    .image img {
+        width: 170px;
     }
 }
